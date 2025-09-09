@@ -17,13 +17,4 @@ Top 10 Trending Repositories on GitHub Today:
 
 *Last updated: 2025-09-09 17:13:08 CST*
 
----
-<details>
-<summary>📌 How to add this to your profile?</summary>
 
-1. Create a new repository with your GitHub username
-2. Create a README.md file
-3. Setup GitHub Actions
-4. Profit!
-
-</details>
