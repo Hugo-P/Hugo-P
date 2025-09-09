@@ -2,17 +2,20 @@ name: Update GitHub Trending
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'  # 每天執行兩次：00:00 和 12:00 UTC
-  workflow_dispatch:  # 允許手動觸發
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          token: ${{ secrets.PAT }}
           
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,12 +29,13 @@ jobs:
 
       - name: Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/update_readme.py
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: |
+          python .github/scripts/update_readme.py
         
       - name: Commit and push if changed
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Update GitHub Trending"
