@@ -15,16 +15,16 @@ def fetch_github_trending():
     trending_repos = []
     for idx, article in enumerate(soup.select('article.Box-row')[:10], 1):
         try:
-            # 獲取倉庫信息
+            # 獲取倉庫資訊
             repo_link = article.select_one('h2 a')
             repo_path = repo_link['href'].strip('/')
             repo_url = f'https://github.com/{repo_path}'
             
             # 獲取描述
             description = article.select_one('p')
-            description = description.text.strip() if description else ''
+            description = description.text.strip() if description else '無描述'
             
-            # 獲取語言
+            # 獲取程式語言
             language = article.select_one('[itemprop="programmingLanguage"]')
             language = language.text.strip() if language else '-'
             
@@ -42,7 +42,7 @@ def fetch_github_trending():
                 'language': language
             })
         except Exception as e:
-            print(f"Error processing repository {idx}: {e}")
+            print(f"處理倉庫 {idx} 時發生錯誤: {e}")
             
     return trending_repos
 
@@ -66,7 +66,7 @@ def update_readme():
     
     # 獲取當前時間（使用台北時區）
     tz = pytz.timezone('Asia/Taipei')
-    current_time = datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S %Z')
+    current_time = datetime.now(tz).strftime('%Y年%m月%d日 %H:%M:%S %Z')
     
     # 替換內容
     content = template.replace('{{TRENDING_TABLE}}', table_content)
