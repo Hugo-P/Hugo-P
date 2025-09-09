@@ -1,20 +1,11 @@
-# 📈 GitHub Trending
+# 📈 GitHub 趨勢榜
 
-Top 10 Trending Repositories on GitHub Today:
+今日 GitHub 熱門倉庫 Top 10：
 
-| No. | Repository | Description | Stars | Language |
-|-----|------------|-------------|-------|----------|
+| 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
+|-----|------|------|------|----------|
 {{TRENDING_TABLE}}
 
-*Last updated: {{LAST_UPDATED}}*
+*最後更新時間：{{LAST_UPDATED}}*
 
 ---
-<details>
-<summary>📌 How to add this to your profile?</summary>
-
-1. Create a new repository with your GitHub username
-2. Create a README.md file
-3. Setup GitHub Actions
-4. Profit!
-
-</details>
