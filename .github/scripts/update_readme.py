@@ -4,6 +4,17 @@ from datetime import datetime
 import pytz
 import re
 import os
+from googletrans import Translator
+
+def translate_to_traditional_chinese(text):
+    try:
+        translator = Translator()
+        # 先翻譯成簡體中文
+        result = translator.translate(text, dest='zh-tw')
+        return result.text
+    except Exception as e:
+        print(f"翻譯時發生錯誤: {e}")
+        return text  # 如果翻譯失敗，返回原文
 
 def fetch_github_trending():
     headers = {
@@ -20,9 +31,11 @@ def fetch_github_trending():
             repo_path = repo_link['href'].strip('/')
             repo_url = f'https://github.com/{repo_path}'
             
-            # 獲取描述
+            # 獲取描述並翻譯
             description = article.select_one('p')
             description = description.text.strip() if description else '無描述'
+            if description and description != '無描述':
+                description = translate_to_traditional_chinese(description)
             
             # 獲取程式語言
             language = article.select_one('[itemprop="programmingLanguage"]')
