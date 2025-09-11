@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 無描述 | ⭐ 5,583 | Python |
-| 2 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 模型上下文協議（MCP）服務器的社區驅動註冊表服務。 | ⭐ 3,170 | Go |
-| 3 | [vercel/examples](https://github.com/vercel/examples) | 享受我們精心策劃的示例和解決方案的集合。使用這些模式來構建您自己的可靠和可擴展的應用程序。 | ⭐ 4,416 | TypeScript |
-| 4 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 開始建立AI代理的12堂課 | ⭐ 37,597 | Jupyter Notebook |
-| 5 | [11cafe/jaaz](https://github.com/11cafe/jaaz) | 這是世界上第一個開源的多模式創意助手，這是優先級隱私且在本地可用的Canva和Manus的替代品。 | ⭐ 3,985 | TypeScript |
-| 6 | [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | X推薦算法的源代碼 | ⭐ 65,461 | Scala |
-| 7 | [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 人人都能用英語 | ⭐ 27,175 | TypeScript |
-| 8 | [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | Tesseract開源OCR引擎（主存儲庫） | ⭐ 69,458 | C++ |
-| 9 | [huggingface/aisheets](https://github.com/huggingface/aisheets) | 使用沒有代碼的AI模型構建，豐富和轉換數據集 | ⭐ 1,230 | TypeScript |
-| 10 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 完整V0，光標，手工，增強代碼，相同。 dev，可愛，Devin，Replit Agent，Windsurf Agent，Vscode Agent，Dia Browser，Xcode，Xcode，Trae AI，Cluely＆Orchids.App（和其他開放式）系統提示（和其他開放式）系統提示，工具和AI型號。 | ⭐ 83,168 | - |
+| 1 | [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 無描述 | ⭐ 6,107 | Python |
+| 2 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 模型上下文協議（MCP）服務器的社區驅動註冊表服務。 | ⭐ 3,524 | Go |
+| 3 | [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | X推薦算法的源代碼 | ⭐ 65,811 | Scala |
+| 4 | [google/material-design-icons](https://github.com/google/material-design-icons) | Google的材料設計圖標（材料符號） | ⭐ 52,077 | - |
+| 5 | [ccfos/nightingale](https://github.com/ccfos/nightingale) | 夜鶯進行監視和警報，就像Grafana一樣可視化。 | ⭐ 11,646 | Go |
+| 6 | [mxrch/GHunt](https://github.com/mxrch/GHunt) | 🕵️‍♂️進攻性Google框架。 | ⭐ 17,399 | Python |
+| 7 | [agno-agi/agno](https://github.com/agno-agi/agno) | 多代理系統的高性能運行時。在雲中構建，運行和管理安全的多代理系統。 | ⭐ 33,102 | Python |
+| 8 | [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 十億郵件為您提供開源郵件服務器，時事通訊，電子郵件營銷 - 完全自我託管，友好型，並且沒有每月費用。加入Discord：https：//discord.gg/asfxzbuhzr | ⭐ 10,068 | Go |
+| 9 | [MotiaDev/motia](https://github.com/MotiaDev/motia) | 將API，後台作業，工作流程和AI代理統一的現代後端框架統一了具有內置可觀察性和狀態管理的單個核心原始框架。 | ⭐ 7,940 | TypeScript |
+| 10 | [heroui-inc/heroui](https://github.com/heroui-inc/heroui) | 🚀美麗，快速和現代反應UI庫。 （以前下一步） | ⭐ 25,900 | TypeScript |
 
-*最後更新時間：2025年09月11日 09:38:55 CST*
+*最後更新時間：2025年09月11日 20:40:59 CST*
 
 ---
