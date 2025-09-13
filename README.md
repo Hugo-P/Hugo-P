@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [trueadm/ripple](https://github.com/trueadm/ripple) | 優雅的打字條UI框架 | ⭐ 3,735 | JavaScript |
-| 2 | [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 無描述 | ⭐ 7,099 | Python |
-| 3 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 從終端生成代碼！ | ⭐ 1,172 | TypeScript |
-| 4 | [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 遞歸打開的META-AGENT v0.1（beta）。元代理框架，用於建立高性能多代理系統。 | ⭐ 1,650 | Python |
-| 5 | [firebase/genkit](https://github.com/firebase/genkit) | 一個開源框架，用於構建具有熟悉代碼模式的AI驅動應用程序。 Genkit使得具有可觀察性和評估的AI特徵使Genkit易於開發，集成和測試。 Genkit與各種模型和平台合作。 | ⭐ 3,155 | TypeScript |
-| 6 | [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 我能找到的所有N8N的工作流程（也是從網站本身中） | ⭐ 29,079 | HTML |
-| 7 | [epfml/ML_course](https://github.com/epfml/ML_course) | EPFL機器學習課程，2025年秋季 | ⭐ 1,618 | Jupyter Notebook |
-| 8 | [expo/expo](https://github.com/expo/expo) | 一個開源框架，用於製作具有React的通用本機應用程序。博覽會在Android，iOS和網絡上運行。 | ⭐ 43,207 | TypeScript |
-| 9 | [NVIDIA/garak](https://github.com/NVIDIA/garak) | LLM脆弱性掃描儀 | ⭐ 5,457 | Python |
-| 10 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | MILVUS是為可擴展向量ANN搜索構建的高性能的雲媒介數據庫 | ⭐ 37,225 | Go |
+| 1 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 每個系統的powershell！ | ⭐ 48,561 | C# |
+| 2 | [trueadm/ripple](https://github.com/trueadm/ripple) | 優雅的打字條UI框架 | ⭐ 4,038 | JavaScript |
+| 3 | [MotiaDev/motia](https://github.com/MotiaDev/motia) | 將API，後台作業，工作流程和AI代理統一的現代後端框架統一了具有內置可觀察性和狀態管理的單個核心原始框架。 | ⭐ 8,200 | TypeScript |
+| 4 | [grpc/grpc-go](https://github.com/grpc/grpc-go) | GRPC的GO語言實現。基於HTTP/2的RPC | ⭐ 22,232 | Go |
+| 5 | [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 遞歸打開的META-AGENT v0.1（beta）。元代理框架，用於建立高性能多代理系統。 | ⭐ 1,760 | Python |
+| 6 | [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) | 🧩用於經過的補丁 | ⭐ 4,249 | Java |
+| 7 | [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) | 該存儲庫是用於Python的Azure SDK的積極開發。對於SDK的消費者，我們建議訪問我們的公共開發人員文檔，網址為https://learn.microsoft.com/python/azure/或我們的版本的開發人員文檔，網址為https://azure.github.io/azure-sdk-for-python。 | ⭐ 5,262 | Python |
+| 8 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 從終端生成代碼！ | ⭐ 1,309 | TypeScript |
+| 9 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 協議緩衝區 -  Google的數據互換格式 | ⭐ 69,018 | C++ |
+| 10 | [facebook/folly](https://github.com/facebook/folly) | 在Facebook開發和使用的開源C ++庫。 | ⭐ 29,769 | C++ |
 
-*最後更新時間：2025年09月13日 09:23:55 CST*
+*最後更新時間：2025年09月13日 20:37:01 CST*
 
 ---
