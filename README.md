@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [category-labs/monad](https://github.com/category-labs/monad) | 無描述 | ⭐ 603 | C++ |
-| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python工具，用於將文件和辦公文檔轉換為Markdown。 | ⭐ 77,424 | Python |
-| 3 | [category-labs/monad-bft](https://github.com/category-labs/monad-bft) | 無描述 | ⭐ 360 | Rust |
-| 4 | [WebKit/WebKit](https://github.com/WebKit/WebKit) | Webkit Project的所在地，Safari，Mail，App Store使用的瀏覽器引擎以及MacOS，iOS和Linux上的許多其他應用程序。 | ⭐ 9,115 | JavaScript |
-| 5 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | PERPERXICA是AI驅動的搜索引擎。它是困惑AI的開源替代品 | ⭐ 25,259 | TypeScript |
-| 6 | [openai/codex](https://github.com/openai/codex) | 在您的終端中運行的輕型編碼劑 | ⭐ 42,104 | Rust |
-| 7 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | 🔥🔥開源替代品 | ⭐ 57,152 | TypeScript |
-| 8 | [dataease/SQLBot](https://github.com/dataease/SQLBot) | 基於大模型和 RAG 的智能問數係統。 Text-to-SQL Generation via LLMs using RAG. | ⭐ 2,190 | Python |
-| 9 | [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM（時間序列基礎模型）是由Google Research為時間序列預測開發的經過預定的時間序列基礎模型。 | ⭐ 5,721 | Python |
-| 10 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | AI對沖基金團隊 | ⭐ 40,825 | Python |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python工具，用於將文件和辦公文檔轉換為Markdown。 | ⭐ 78,051 | Python |
+| 2 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Python中實施的所有算法 | ⭐ 207,488 | Python |
+| 3 | [curl/curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS和WSS。 Libcurl提供了無數強大的功能 | ⭐ 39,120 | C |
+| 4 | [flutter/flutter](https://github.com/flutter/flutter) | 顫動使得為移動和其他地區構建美麗的應用程序變得容易快速 | ⭐ 172,601 | Dart |
+| 5 | [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | Tongyi Deepresearch，領先的開源深入研究代理 | ⭐ 8,556 | Python |
+| 6 | [category-labs/monad](https://github.com/category-labs/monad) | 無描述 | ⭐ 733 | C++ |
+| 7 | [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | 對話語音AI代理的開源框架。 | ⭐ 7,632 | C |
+| 8 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 一個完整的計算機科學研究計劃，成為一名軟件工程師。 | ⭐ 328,332 | - |
+| 9 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | AI可穿戴設備。穿上，說話，抄寫，自動抄錄 | ⭐ 6,719 | C |
+| 10 | [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | Linera協議的主要存儲庫 | ⭐ 28,888 | Rust |
 
-*最後更新時間：2025年09月18日 09:28:18 CST*
+*最後更新時間：2025年09月18日 20:41:48 CST*
 
 ---
