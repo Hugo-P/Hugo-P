@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老鄉雞🐔那樣做飯。主要部分於2024年完工，非老鄉雞官方倉庫。文字來自《老鄉雞菜品溯源報告》，並做歸納、編輯與整理。 CookLikeHOC. | ⭐ 16,640 | JavaScript |
-| 2 | [bevyengine/bevy](https://github.com/bevyengine/bevy) | 令人耳目一新的簡單數據驅動的遊戲引擎，內置了Rust | ⭐ 42,221 | Rust |
-| 3 | [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | Tongyi Deep Research，領先的開源深度研究代理 | ⭐ 14,074 | Python |
-| 4 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 非常好的白板SDK / INFINITE CANVAS SDK | ⭐ 42,617 | TypeScript |
-| 5 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 免費和開源，分佈式，安息的搜索引擎 | ⭐ 74,033 | Java |
-| 6 | [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | 自我託管的遊戲流主機用於月光。 | ⭐ 29,206 | C++ |
-| 7 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 命令行計劃從youtube.com和其他視頻網站下載視頻 | ⭐ 137,860 | Python |
-| 8 | [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) | Minecraft AI與LLMS+MineFlayer | ⭐ 4,105 | JavaScript |
-| 9 | [eslint/eslint](https://github.com/eslint/eslint) | 在JavaScript代碼中查找並解決問題。 | ⭐ 26,401 | JavaScript |
-| 10 | [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | ⭐️公司沒有破裂的招聘過程 | ⭐ 49,678 | JavaScript |
+| 1 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | Gin是用GO編寫的高性能HTTP Web框架。它提供了類似馬提尼酒的API，但性能要好得多，高達40倍 - 感謝httprouter。 GIN設計用於構建REST API，Web應用程序和微服務。 | ⭐ 84,249 | Go |
+| 2 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 真正獨立的網絡瀏覽器 | ⭐ 48,344 | C++ |
+| 3 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⚡️Express啟發的Web框架編寫了GO | ⭐ 37,787 | Go |
+| 4 | [eslint/eslint](https://github.com/eslint/eslint) | 在JavaScript代碼中查找並解決問題。 | ⭐ 26,449 | JavaScript |
+| 5 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | 現代格式圖書館 | ⭐ 22,539 | C++ |
+| 6 | [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | 每個軟件開發人員都應該了解的（主要是）技術的東西集合 | ⭐ 90,733 | - |
+| 7 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 節點版本管理器 - 符合POSIX的bash腳本以管理多個活動node.js版本 | ⭐ 87,060 | Shell |
+| 8 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | Openzeppelin合同是安全智能合同開發的圖書館。 | ⭐ 26,387 | Solidity |
+| 9 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老鄉雞🐔那樣做飯。主要部分於2024年完工，非老鄉雞官方倉庫。文字來自《老鄉雞菜品溯源報告》，並做歸納、編輯與整理。 CookLikeHOC. | ⭐ 17,392 | JavaScript |
+| 10 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚免費提供的編程書籍 | ⭐ 370,079 | Python |
 
-*最後更新時間：2025年09月23日 20:41:57 CST*
+*最後更新時間：2025年09月24日 09:38:25 CST*
 
 ---
