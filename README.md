@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | Gin是用GO編寫的高性能HTTP Web框架。它提供了類似馬提尼酒的API，但性能要好得多，高達40倍 - 感謝httprouter。 GIN設計用於構建REST API，Web應用程序和微服務。 | ⭐ 84,661 | Go |
-| 2 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 真正獨立的網絡瀏覽器 | ⭐ 48,465 | C++ |
-| 3 | [gofiber/fiber](https://github.com/gofiber/fiber) | ⚡️Express啟發的Web框架編寫了GO | ⭐ 37,875 | Go |
-| 4 | [eslint/eslint](https://github.com/eslint/eslint) | 在JavaScript代碼中查找並解決問題。 | ⭐ 26,490 | JavaScript |
-| 5 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | 現代格式圖書館 | ⭐ 22,574 | C++ |
-| 6 | [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | 每個軟件開發人員都應該了解的（主要是）技術的東西集合 | ⭐ 91,248 | - |
-| 7 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 節點版本管理器 - 符合POSIX的bash腳本以管理多個活動node.js版本 | ⭐ 87,114 | Shell |
-| 8 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | Openzeppelin合同是安全智能合同開發的圖書館。 | ⭐ 26,419 | Solidity |
-| 9 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老鄉雞🐔那樣做飯。主要部分於2024年完工，非老鄉雞官方倉庫。文字來自《老鄉雞菜品溯源報告》，並做歸納、編輯與整理。 CookLikeHOC. | ⭐ 17,816 | JavaScript |
-| 10 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚免費提供的編程書籍 | ⭐ 370,230 | Python |
+| 1 | [cloudflare/capnweb](https://github.com/cloudflare/capnweb) | JavaScript/Tyspript-intagity，低啟動板，對象能力RPC系統 | ⭐ 1,792 | TypeScript |
+| 2 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 免費和開源，分佈式，安息的搜索引擎 | ⭐ 74,324 | Java |
+| 3 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 真正獨立的網絡瀏覽器 | ⭐ 48,585 | C++ |
+| 4 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | “抹布 - 任何東西：多合一的抹布框架” | ⭐ 5,563 | Python |
+| 5 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 超級yolo🚀 | ⭐ 46,052 | Python |
+| 6 | [istio/istio](https://github.com/istio/istio) | 連接，安全，控制和觀察服務。 | ⭐ 37,360 | Go |
+| 7 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | Gin是用GO編寫的高性能HTTP Web框架。它提供了類似馬提尼酒的API，但性能要好得多，高達40倍 - 感謝httprouter。 GIN設計用於構建REST API，Web應用程序和微服務。 | ⭐ 84,973 | Go |
+| 8 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | 免費的開源加密交易機器人 | ⭐ 42,959 | Python |
+| 9 | [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | “海豚：文檔圖像通過異質錨提示進行解析”的官方存儲庫，ACL，2025年。 | ⭐ 6,456 | Python |
+| 10 | [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 網絡安全AI（CAI），AI安全的框架 | ⭐ 4,232 | Python |
 
-*最後更新時間：2025年09月24日 20:42:34 CST*
+*最後更新時間：2025年09月25日 09:38:50 CST*
 
 ---
