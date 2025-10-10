@@ -1,0 +1,42 @@
+name: 更新 GitHub 趨勢榜
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'  # 每天更新兩次：00:00 和 12:00 UTC
+  workflow_dispatch:  # 允許手動觸發
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 檢出倉庫
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+          
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: 安裝依賴
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pytz googletrans==3.1.0a0
+
+      - name: 更新 README
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: |
+          python .github/scripts/update_readme.py
+        
+      - name: 提交變更
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "更新 GitHub 趨勢榜"
+          git push
