@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 一系列筆記本/食譜展示了一些有趣且有效的使用克勞德的方法。 | ⭐ 22,104 | Jupyter Notebook |
-| 2 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | Notebook LM 的開源實現，具有更多靈活性和功能 | ⭐ 5,666 | TypeScript |
-| 3 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小時完全從0訓練26M的小參數GPT！ 🌏 Train a 26M-parameter GPT from scratch in just 2h! | ⭐ 30,197 | Python |
-| 4 | [atuinsh/desktop](https://github.com/atuinsh/desktop) | 📖 運行的操作手冊 | ⭐ 1,720 | TypeScript |
-| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 免費提供的編程書籍 | ⭐ 373,417 | Python |
-| 6 | [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 最直觀的桌面 API 客戶端。組織和執行 REST、GraphQL、WebSockets、服務器發送事件和 gRPC 🦬 | ⭐ 8,428 | TypeScript |
-| 7 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 通過法學碩士和計算機視覺自動化基於瀏覽器的工作流程 | ⭐ 14,745 | Python |
-| 8 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 將任何 PDF 或圖像文檔轉換為 AI 的結構化數據。一款功能強大、輕量級的 OCR 工具包，可彌合圖像/PDF 和法學碩士之間的差距。支持 100 多種語言。 | ⭐ 58,946 | Python |
-| 9 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 所有算法均用Python實現 | ⭐ 211,412 | Python |
-| 10 | [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 🐬DeepChat - 將強大的人工智能連接到您的個人世界的智能助手 | ⭐ 4,529 | TypeScript |
+| 1 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 一系列筆記本/食譜展示了一些有趣且有效的使用克勞德的方法。 | ⭐ 22,854 | Jupyter Notebook |
+| 2 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | 通用代理平台 | ⭐ 27,299 | Go |
+| 3 | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 從電子書、語音克隆和 1107 多種語言生成有聲讀物！ | ⭐ 12,293 | Python |
+| 4 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 完整增強代碼、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus Agent Tools、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、dia & v0。 （和其他開源）系統提示、內部工具和人工智能模型 | ⭐ 92,108 | - |
+| 5 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | 🤗 樂機器人：通過端到端學習讓機器人人工智能更容易使用 | ⭐ 18,196 | Python |
+| 6 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 用於無縫工作流程的開源跨平台終端 | ⭐ 12,113 | Go |
+| 7 | [karpathy/micrograd](https://github.com/karpathy/micrograd) | 一個微型標量值 autograd 引擎和一個神經網絡庫，其上有類似 PyTorch 的 API | ⭐ 13,117 | Jupyter Notebook |
+| 8 | [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 為 HuggingChat 應用程序提供支持的開源代碼庫 | ⭐ 9,511 | TypeScript |
+| 9 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 所有算法均用Python實現 | ⭐ 211,524 | Python |
+| 10 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | Notebook LM 的開源實現，具有更多靈活性和功能 | ⭐ 5,975 | TypeScript |
 
-*最後更新時間：2025年10月20日 08:54:53 CST*
+*最後更新時間：2025年10月20日 20:21:50 CST*
 
 ---
