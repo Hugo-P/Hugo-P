@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 一系列筆記本/食譜展示了一些有趣且有效的使用克勞德的方法。 | ⭐ 23,512 | Jupyter Notebook |
-| 2 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | 通用代理平台 | ⭐ 27,360 | Go |
-| 3 | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 從電子書、語音克隆和 1107 多種語言生成有聲讀物！ | ⭐ 12,470 | Python |
-| 4 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 完整增強代碼、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus Agent Tools、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、dia & v0。 （和其他開源）系統提示、內部工具和人工智能模型 | ⭐ 92,233 | - |
-| 5 | [huggingface/lerobot](https://github.com/huggingface/lerobot) | 🤗 樂機器人：通過端到端學習讓機器人人工智能更容易使用 | ⭐ 18,284 | Python |
-| 6 | [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 用於無縫工作流程的開源跨平台終端 | ⭐ 12,202 | Go |
-| 7 | [karpathy/micrograd](https://github.com/karpathy/micrograd) | 一個微型標量值 autograd 引擎和其上的神經網絡庫，具有類似 PyTorch 的 API | ⭐ 13,163 | Jupyter Notebook |
-| 8 | [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 為 HuggingChat 應用程序提供支持的開源代碼庫 | ⭐ 9,600 | TypeScript |
-| 9 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 所有算法均用Python實現 | ⭐ 211,626 | Python |
-| 10 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | Notebook LM 的開源實現，具有更多靈活性和功能 | ⭐ 6,173 | TypeScript |
+| 1 | [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 最直觀的桌面 API 客戶端。組織和執行 REST、GraphQL、WebSockets、服務器發送事件和 gRPC 🦬 | ⭐ 9,391 | TypeScript |
+| 2 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 一個精美的自託管監控工具 | ⭐ 76,302 | JavaScript |
+| 3 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | Notebook LM 的開源實現，具有更多靈活性和功能 | ⭐ 6,465 | TypeScript |
+| 4 | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 從電子書、語音克隆和 1107 多種語言生成有聲讀物！ | ⭐ 12,752 | Python |
+| 5 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 一系列筆記本/食譜展示了一些有趣且有效的使用克勞德的方法。 | ⭐ 24,176 | Jupyter Notebook |
+| 6 | [sharkdp/bat](https://github.com/sharkdp/bat) | 一隻帶翅膀的貓（1）克隆體。 | ⭐ 55,221 | Rust |
+| 7 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 通過法學碩士和計算機視覺自動化基於瀏覽器的工作流程 | ⭐ 15,058 | Python |
+| 8 | [oceanbase/miniob](https://github.com/oceanbase/miniob) | MiniOB 是一個緊湊的數據庫，可幫助開發人員了解數據庫的基本工作原理。 | ⭐ 4,047 | C++ |
+| 9 | [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 使用下一代 Kaldi 和 onnxruntime 進行語音轉文本、文本轉語音、說話人分類、語音增強、源分離和 VAD，無需連接互聯網。支持嵌入式系統、Android、iOS、HarmonyOS、Raspberry Pi、RISC-V、x86_64服務器、websocket服務器/客戶端，支持12種編程語言 | ⭐ 7,848 | C++ |
+| 10 | [servo/servo](https://github.com/servo/servo) | Servo 旨在為開發人員提供一種輕量級、高性能的替代方案，用於將 Web 技術嵌入到應用程序中。 | ⭐ 32,319 | Rust |
 
-*最後更新時間：2025年10月21日 08:52:05 CST*
+*最後更新時間：2025年10月21日 20:21:57 CST*
 
 ---
