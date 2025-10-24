@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [minio/minio](https://github.com/minio/minio) | MinIO 是一個高性能、S3 兼容的對象存儲，在 GNU AGPLv3 許可證下開源。 | ⭐ 56,574 | Go |
-| 2 | [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | Blind&Invisible Watermark ，圖片盲水印，提取水印無須原圖！ | ⭐ 8,795 | Python |
-| 3 | [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 最直觀的桌面 API 客戶端。組織和執行 REST、GraphQL、WebSockets、服務器發送事件和 gRPC 🦬 | ⭐ 13,241 | TypeScript |
-| 4 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 真正獨立的網絡瀏覽器 | ⭐ 50,438 | C++ |
-| 5 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 社區支持的強大文檔管理系統：掃描、索引和歸檔您的所有文檔 | ⭐ 33,158 | Python |
-| 6 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 免費、本地、開源 AI 應用程序構建器 ✨ v0 / 可愛 / Bolt 替代品 🌟 如果您喜歡，請加星！ | ⭐ 16,938 | TypeScript |
-| 7 | [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 使用下一代 Kaldi 和 onnxruntime 進行語音轉文本、文本轉語音、說話人分類、語音增強、源分離和 VAD，無需連接互聯網。支持嵌入式系統、Android、iOS、HarmonyOS、Raspberry Pi、RISC-V、x86_64服務器、websocket服務器/客戶端，支持12種編程語言 | ⭐ 8,165 | C++ |
-| 8 | [rossant/awesome-math](https://github.com/rossant/awesome-math) | 精選的精彩數學資源列表 | ⭐ 11,095 | Python |
-| 9 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 一個精美的自託管監控工具 | ⭐ 76,952 | JavaScript |
-| 10 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 機器學習系統簡介 | ⭐ 4,662 | Python |
+| 1 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 真正獨立的網絡瀏覽器 | ⭐ 50,594 | C++ |
+| 2 | [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | Blind&Invisible Watermark ，圖片盲水印，提取水印無須原圖！ | ⭐ 9,167 | Python |
+| 3 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 開源 API 開發生態系統 - https://hoppscotch.io（Postman、Insomnia 的開源替代品） | ⭐ 75,522 | TypeScript |
+| 4 | [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | Zephyr 項目的主要 Git 存儲庫。 Zephyr 是適用於多種硬件架構的新一代、可擴展、優化、安全的 RTOS。 | ⭐ 13,366 | C |
+| 5 | [minio/minio](https://github.com/minio/minio) | MinIO 是一個高性能、S3 兼容的對象存儲，在 GNU AGPLv3 許可證下開源。 | ⭐ 57,056 | Go |
+| 6 | [emcie-co/parlant](https://github.com/emcie-co/parlant) | LLM 代理專為控製而構建。專為實際使用而設計。只需幾分鐘即可部署。 | ⭐ 14,547 | Python |
+| 7 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 練習英語，一次敲擊，一點進步；Practice English, one strike, one step forward | ⭐ 4,532 | Vue |
+| 8 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 社區支持的強大文檔管理系統：掃描、索引和歸檔您的所有文檔 | ⭐ 33,284 | Python |
+| 9 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 適用於每個系統的 PowerShell！ | ⭐ 50,432 | C# |
+| 10 | [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | LTX-Video 的官方存儲庫 | ⭐ 8,370 | Python |
 
-*最後更新時間：2025年10月24日 08:47:11 CST*
+*最後更新時間：2025年10月24日 20:22:17 CST*
 
 ---
