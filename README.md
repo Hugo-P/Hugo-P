@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 真正獨立的網絡瀏覽器 | ⭐ 52,539 | C++ |
-| 2 | [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) | 標准開臂 100 | ⭐ 3,808 | - |
-| 3 | [coinbase/x402](https://github.com/coinbase/x402) | 互聯網支付協議。基於 HTTP 構建。 | ⭐ 2,557 | TypeScript |
-| 4 | [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | Blind&Invisible Watermark ，圖片盲水印，提取水印無須原圖！ | ⭐ 10,068 | Python |
-| 5 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 社區支持的強大文檔管理系統：掃描、索引和歸檔您的所有文檔 | ⭐ 33,528 | Python |
-| 6 | [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | Zephyr 項目的主要 Git 存儲庫。 Zephyr 是適用於多種硬件架構的新一代、可擴展、優化、安全的 RTOS。 | ⭐ 13,480 | C |
-| 7 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 開源 API 開發生態系統 - https://hoppscotch.io（Postman、Insomnia 的開源替代品） | ⭐ 75,916 | TypeScript |
-| 8 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 免費 API 集合列表 | ⭐ 372,573 | Python |
-| 9 | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | AWS 的開源替代方案。彈性計算、塊存儲（非複制）、防火牆和負載均衡器、託管 Postgres、K8s、AI 推理和 IAM 服務。 | ⭐ 11,059 | Ruby |
-| 10 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 功能豐富的命令行音頻/視頻下載器 | ⭐ 132,548 | Python |
+| 1 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 真正獨立的網絡瀏覽器 | ⭐ 53,023 | C++ |
+| 2 | [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | [支持0.49.x]（重置Cursor AI機器ID並繞過更高的令牌限制）Cursor Ai，自動重置機器ID，免費升級使用Pro功能：您已達到試用請求限制。 / 本機上使用的免費試用帳戶太多。請升級到專業版。我們設置此限制是為了防止濫用。如果您認為這是一個錯誤，請告訴我們。 | ⭐ 37,210 | Python |
+| 3 | [cjpais/Handy](https://github.com/cjpais/Handy) | 一款免費、開源且可擴展的語音轉文本應用程序，完全離線工作。 | ⭐ 3,275 | TypeScript |
+| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 使用 OpenAI、Anthropic、Gemini 和開源模型的 AI 代理和 RAG 的精彩 LLM 應用程序集合。 | ⭐ 73,017 | Python |
+| 5 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 點亮AI特工的絕對訓練師。 | ⭐ 2,034 | Python |
+| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 免費 API 集合列表 | ⭐ 372,833 | Python |
+| 7 | [coinbase/x402](https://github.com/coinbase/x402) | 互聯網支付協議。基於 HTTP 構建。 | ⭐ 2,648 | TypeScript |
+| 8 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 了解如何設計大型系統。準備系統設計面試。包括 Anki 抽認卡。 | ⭐ 323,972 | Python |
+| 9 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Xray 面板支持多協議多用戶到期日、流量和 IP 限制（Vmess、Vless、Trojan、ShadowSocks、Wireguard、Tunnel、Mixed、HTTP） | ⭐ 25,090 | HTML |
+| 10 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 適用於 Windows、Linux 和 macOS 的 GUI 客戶端，支持 Xray 和 sing-box 等 | ⭐ 88,727 | C# |
 
-*最後更新時間：2025年10月26日 08:55:09 CST*
+*最後更新時間：2025年10月26日 20:18:57 CST*
 
 ---
