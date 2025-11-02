@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [get-convex/chef](https://github.com/get-convex/chef) | 唯一了解後端的人工智能應用程序構建器 | ⭐ 2,714 | TypeScript |
-| 2 | [suitenumerique/docs](https://github.com/suitenumerique/docs) | 可擴展的協作筆記、維基和文檔平台。使用 Django 和 React 構建。 | ⭐ 14,202 | Python |
-| 3 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | LLM 支持的框架，用於使用 RAG 範式進行深度文檔理解、語義檢索和上下文感知答案。 | ⭐ 7,191 | Go |
-| 4 | [janhq/jan](https://github.com/janhq/jan) | Jan 是 ChatGPT 的開源替代品，可在您的計算機上 100% 離線運行。 | ⭐ 38,945 | TypeScript |
-| 5 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 12 週 24 節課，Web 開發人員入門 | ⭐ 93,736 | JavaScript |
-| 6 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 僅使用單個圖像進行實時換臉和一鍵視頻深度換臉 | ⭐ 74,742 | Python |
-| 7 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 用 Rust 編寫的開源支付開關，使支付快速、可靠且經濟實惠 | ⭐ 38,915 | Rust |
-| 8 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - 符合 POSIX 標準的 bash 腳本，用於管理多個活動的 Node.js 版本 | ⭐ 88,835 | Shell |
-| 9 | [github/copilot-cli](https://github.com/github/copilot-cli) | GitHub Copilot CLI 將 Copilot 編碼代理的強大功能直接帶到您的終端。 | ⭐ 4,516 | - |
-| 10 | [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 🔥 官方推薦 🔥 RuoYi-Vue 全新 Pro 版本，優化重構所有功能。基於 Spring Boot + MyBatis Plus + Vue & Element 實現的後台管理系統 + 微信小程序，支持 RBAC 動態權限、數據權限、SaaS 多租戶、Flowable 工作流、三方登錄、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生髮的動力！ | ⭐ 33,878 | Java |
+| 1 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微輿：人人可用的多Agent輿情分析助手，打破信息繭房，還原輿情原貌，預測未來走向，輔助決策！從0實現，不依賴任何框架。 | ⭐ 3,851 | Python |
+| 2 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code鏡像，一站式開源中轉服務，讓 Claude、OpenAI、Gemini、Droid 訂閱統一接入，支持拼車共享，更高效分攤成本，原生工具無縫使用。 | ⭐ 4,767 | JavaScript |
+| 3 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 點亮AI特工的絕對訓練師。 | ⭐ 5,855 | Python |
+| 4 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | “DeepCode：開放代理編碼（Paper2Code & Text2Web & Text2Backend）” | ⭐ 8,239 | Python |
+| 5 | [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 納米法學碩士 | ⭐ 7,424 | Python |
+| 6 | [sst/opencode](https://github.com/sst/opencode) | 為終端打造的AI編碼代理。 | ⭐ 30,283 | TypeScript |
+| 7 | [charmbracelet/glow](https://github.com/charmbracelet/glow) | 在 CLI 上渲染 Markdown，充滿活力！ 💅🏻 | ⭐ 19,890 | Go |
+| 8 | [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 根據真實故事改編 | ⭐ 48,983 | JavaScript |
+| 9 | [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) | 用於 Python 交易的自主人工智能代理 | ⭐ 2,261 | Python |
+| 10 | [suitenumerique/docs](https://github.com/suitenumerique/docs) | 可擴展的協作筆記、維基和文檔平台。使用 Django 和 React 構建。 | ⭐ 14,275 | Python |
 
-*最後更新時間：2025年11月02日 08:56:09 CST*
+*最後更新時間：2025年11月02日 20:18:24 CST*
 
 ---
