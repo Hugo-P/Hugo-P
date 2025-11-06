@@ -4,17 +4,17 @@
 
 | 排名 | 倉庫 | 描述 | 星標 | 程式語言 |
 |-----|------|------|------|----------|
-| 1 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微輿：人人可用的多Agent輿情分析助手，打破信息繭房，還原輿情原貌，預測未來走向，輔助決策！從0實現，不依賴任何框架。 | ⭐ 14,886 | Python |
-| 2 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 利用 AI 自動化基於瀏覽器的工作流程 | ⭐ 16,178 | Python |
-| 3 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | “DeepCode：開放代理編碼（Paper2Code & Text2Web & Text2Backend）” | ⭐ 9,441 | Python |
-| 4 | [nocobase/nocobase](https://github.com/nocobase/nocobase) | NocoBase 是可擴展性最強的人工智能驅動的無代碼/低代碼平台，用於構建業務應用程序和企業解決方案。 | ⭐ 17,863 | TypeScript |
-| 5 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 🤖 OpenAI、Claude 等人的免費開源替代品。自託管且本地優先。 OpenAI 的直接替代品，在消費級硬件上運行。無需 GPU。運行 gguf、變壓器、擴散器等等。功能：生成文本、音頻、視頻、圖像、語音克隆、分佈式、P2P 和去中心化推理 | ⭐ 37,255 | Go |
-| 6 | [sst/opentui](https://github.com/sst/opentui) | OpenTUI 是一個用於構建終端用戶界面（TUI）的庫 | ⭐ 4,459 | TypeScript |
-| 7 | [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | 普羅米修斯警報管理器 | ⭐ 7,351 | Go |
-| 8 | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 支持所有平台的現代下載管理器。使用 Golang 和 Flutter 構建。 | ⭐ 21,177 | Dart |
-| 9 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 不斷發展的保護 Linux 服務器的操作指南。 | ⭐ 21,682 | - |
-| 10 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 一個簡單、輕量級的 PowerShell 腳本，用於刪除預安裝的應用程序、禁用遙測以及執行各種其他更改來自定義、整理和改善您的 Windows 體驗。 Win11Debloat 適用於 Windows 10 和 Windows 11。 | ⭐ 32,163 | PowerShell |
+| 1 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微輿：人人可用的多Agent輿情分析助手，打破信息繭房，還原輿情原貌，預測未來走向，輔助決策！從0實現，不依賴任何框架。 | ⭐ 17,096 | Python |
+| 2 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 利用 AI 自動化基於瀏覽器的工作流程 | ⭐ 16,603 | Python |
+| 3 | [nocobase/nocobase](https://github.com/nocobase/nocobase) | NocoBase 是可擴展性最強的人工智能驅動的無代碼/低代碼平台，用於構建業務應用程序和企業解決方案。 | ⭐ 18,055 | TypeScript |
+| 4 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 🤖 OpenAI、Claude 等人的免費開源替代品。自託管且本地優先。 OpenAI 的直接替代品，在消費級硬件上運行。無需 GPU。運行 gguf、變壓器、擴散器等等。功能：生成文本、音頻、視頻、圖像、語音克隆、分佈式、P2P 和去中心化推理 | ⭐ 37,425 | Go |
+| 5 | [sst/opentui](https://github.com/sst/opentui) | OpenTUI 是一個用於構建終端用戶界面（TUI）的庫 | ⭐ 4,546 | TypeScript |
+| 6 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 不斷發展的保護 Linux 服務器的操作指南。 | ⭐ 22,013 | - |
+| 7 | [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) | 用於模型上下文協議服務器和客戶端的官方 Go SDK。與 Google 合作維護。 | ⭐ 2,720 | Go |
+| 8 | [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon) | 🦝 Rachoon — 一種處理髮票的自託管方式 | ⭐ 301 | TypeScript |
+| 9 | [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) | Android 漫畫閱讀器 | ⭐ 7,181 | Kotlin |
+| 10 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | 用於機器學習的張量庫 | ⭐ 13,388 | C++ |
 
-*最後更新時間：2025年11月06日 08:53:19 CST*
+*最後更新時間：2025年11月06日 20:21:58 CST*
 
 ---
